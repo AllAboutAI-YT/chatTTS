@@ -2,7 +2,7 @@
 ChatTTS + Ollama 
 
 ### YouTube Tutorial
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MpVNZA6__3o/0.jpg)](https://www.youtube.com/watch?v=MpVNZA6__3o)
 
 ### ChatTTS GitHub
 https://github.com/2noise/ChatTTS
